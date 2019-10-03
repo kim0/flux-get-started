@@ -1,0 +1,1 @@
+{"jobID":"6540018e-6e15-5457-be1b-7bbcba5867b0","spec":{"type":"policy","cause":{"Message":"","User":"Ahmed Kamal \u003cemail.ahmedkamal@googlemail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.0.*"},"remove":{}}}},"result":null}
